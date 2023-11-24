@@ -1,0 +1,1 @@
+Implict function in C
